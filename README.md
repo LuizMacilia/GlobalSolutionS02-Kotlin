@@ -1,1 +1,0 @@
-# GlobalSolutionS02-Kotlin
